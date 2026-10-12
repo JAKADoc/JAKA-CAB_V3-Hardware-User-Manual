@@ -1,0 +1,12 @@
+﻿Steps,Action,References
+1,Unpack and take out the control cabinet.,:ref:`Unpacking`
+2,Transport the control cabinet to the intended mounting location.,:ref:`Handling`
+3,Mount the control cabinet.,:ref:`Control Cabinet Installation`
+4,Connect the robot and control cabinet.,/
+5,Connect the cabinet to protective earth.,:ref:`Grounding and Shielding Connections`
+6,"If control cabinets in use are certain models of CAB LiteDC, it must be connected to an isolated power supply.",:ref:`Isolated Power Supply Connection`
+7,Connect the control cabinet power cable to the power supply socket.,:ref:`Power Connection`
+8,"Connect the control cabinet and control stick, if an optional teach pendant is configured, connect the control cabinet to the teach pendant.",:ref:`Control Stick Connection`
+9,Connect the robot by control stick or teach pendant.,Refer to Software User Manual
+10,Power on and enable the robot by control stick.,Refer to Hardware User Manual
+11,Initial test before commissioning.,Refer to Hardware User Manual
