@@ -63,7 +63,11 @@ I/O Indicators
 | **1** I/O indicators
 | **2** PNP/NPN indicators
 
-The I/O indicator lights are on the right of the interface on the front panel of the control cabinet, displaying a yellow-green color. The indicator lights illuminate when the interface is connected. Besides the I/O indicator lights on the right side of the interface, there are two PNP and NPN indicator lights above the P7 to P10 interfaces. The NPN indicator displays blue, and the PNP indicator displays yellow-green. When the interface is configured as NPN and connected, the upper blue indicator light illuminates. When the interface is configured as PNP and connected, the upper yellow-green indicator light illuminates.
+The I/O indicator lights are on the right of the interface on the front panel of the control cabinet, 
+displaying a yellow-green color. The indicator lights illuminate when the interface is connected. 
+Besides the I/O indicator lights on the right side of the interface, there are two PNP and NPN indicator lights above the P7 to P10 interfaces. 
+The PNP indicator displays blue, and the NPN indicator displays yellow-green. When the interface is configured as PNP and connected, the upper blue indicator light illuminates. 
+When the interface is configured as NPN and connected, the upper yellow-green indicator light illuminates.
 
 .. _Maintenance-Indicator:
 
